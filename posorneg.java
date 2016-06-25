@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class Pos{
 public static void main(String[] args) { 
 Scanner input = new Scanner(System.in);
