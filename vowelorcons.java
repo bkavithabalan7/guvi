@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class Vowel{
 public static void main(String[] args){
 Scanner read= new Scanner(System.in);
